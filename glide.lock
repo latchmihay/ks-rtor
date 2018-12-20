@@ -1,0 +1,8 @@
+hash: dc65d0c034a5dc724f2d00a219adb09b0f2bbe12fe7a280fe14665527dbee1a8
+updated: 2017-11-14T16:02:15.042883029-05:00
+imports:
+- name: github.com/pyed/rtapi
+  version: 11d3d4380c34a50ac990e4774e44819112261ee6
+- name: github.com/latchmihay/rtapi
+  version: 452e00ecf93742f9c7bf5cf6ad9c4290c8a55921
+testImports: []

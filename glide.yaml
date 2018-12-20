@@ -1,0 +1,3 @@
+package: ks-rtor
+import:
+- package: github.com/latchmihay/rtapi
